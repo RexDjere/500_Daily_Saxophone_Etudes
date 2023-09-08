@@ -7,7 +7,7 @@ Welcome to the Saxtalk.com 500 Daily Saxophone Etudes (Eb Edition) repository!
 This repository contains a collection of 500 saxophone etudes designed to help you to improve your saxophone playing. These etudes cover all 12 keys, and a variety of tempos.
 
 You can listen to the etudes here:
-[https://musescore.com/user/18100066/sets/6378790](https://musescore.com/user/18100066/sets/6378790)
+[https://musescore.com/user/18100066/sets/6460858](https://musescore.com/user/18100066/sets/6460858)
 
 ## Availability
 
