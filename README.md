@@ -23,10 +23,10 @@ Happy playing!
 2. I built all .odt text files for the book using [LibreOffice Writer](https://libreoffice.org).
 You can find the files in the 02_odt_files.
 3. The GIMP files that I used in building the book are in the 03_gimp_xcf_files folder.
-4. I exported each MuseScore score to .pdf using LibreOffice Writer. Then I imported
+3a. I exported each MuseScore score to .pdf using LibreOffice Writer. Then I imported
 each .pdf into add_page_number.xcf at 600 dpi resolution to add the page numbers.
-5. The book's cover is in cover.xcf.
-6. 04_txt_files contains musescore_amazon.txt, which contains the MuseScore.com scores description field.
+3b. The book's cover is in cover.xcf.
+4. 04_txt_files contains musescore_amazon.txt, which contains the MuseScore.com scores description field.
 
 
 
