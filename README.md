@@ -11,7 +11,7 @@ You can listen to the etudes here:
 
 ## Availability
 
-This book will soon be available for purchase on [Amazon.com](https://www.amazon.com). I'll update this page when it's available.
+This book is available for purchase on [Amazon.com](https://www.amazon.com/dp/B0CN9P393K/).
 
 Feel free to explore the repository, and to use these etudes to enhance your saxophone playing. If you have any questions or suggestions, please [contact me](mailto:rex@djere.com).
 
