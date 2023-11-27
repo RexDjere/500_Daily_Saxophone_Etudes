@@ -13,7 +13,7 @@ You can listen to the etudes here:
 
 This book is available for purchase on [Amazon.com](https://www.amazon.com/dp/B0CN9P393K/).
 
-Feel free to explore the repository, and to use these etudes to enhance your saxophone playing. If you have any questions or suggestions, please [contact me](mailto:rex@djere.com).
+Feel free to explore the repository, and to use these etudes to enhance your saxophone playing. If you have any questions or suggestions, please free to contact me at rex@djere.com.
 
 Happy playing!
 
